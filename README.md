@@ -1,2 +1,2 @@
-# hacckerrank-solutions-ruby
+# hackerrank-solutions-ruby
 Attempting to learn ruby through hackerrank
